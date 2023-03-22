@@ -1,5 +1,5 @@
 {
-    "name": "luucasfzs/laravel-circuit-breaker",
+    "name": "luucasfzs/circuit-breaker",
     "type": "library",
     "description": "A circuit breaker pattern implementation for the Laravel framework",
     "keywords": [
@@ -7,7 +7,7 @@
         "circuit breaker",
         "package"
     ],
-    "homepage": "https://github.com/luucasfzs/laravel-circuit-breaker",
+    "homepage": "https://github.com/luucasfzs/circuit-breaker",
     "license": "MIT",
     "authors": [
         {
