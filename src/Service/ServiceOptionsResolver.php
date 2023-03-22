@@ -1,6 +1,6 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Service;
+namespace Luucasfzs\LaravelCircuitBreaker\Service;
 
 use Illuminate\Config\Repository as Config;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Events;
+namespace Luucasfzs\LaravelCircuitBreaker\Events;
 
 class AttemptFailed
 {

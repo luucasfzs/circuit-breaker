@@ -17,7 +17,7 @@ If you need an easy to use implementation of the [circuit breaker pattern](https
 You can use Composer to install the package for your project.
 
 ``` bash
-$ composer require francescomalatesta/laravel-circuit-breaker
+$ composer require Luucasfzs/laravel-circuit-breaker
 ```
 
 Don't worry about service providers and façades: Laravel can auto discover the package without doing nothing!
@@ -216,26 +216,26 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email francescomalatesta@live.it instead of using the issue tracker.
+If you discover any security related issues, please email Luucasfzs@live.it instead of using the issue tracker.
 
 ## Credits
 
-- [Francesco Malatesta][link-author]
+- [Lucas Zimmermann][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/francescomalatesta/laravel-circuit-breaker.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Luucasfzs/laravel-circuit-breaker.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/francescomalatesta/laravel-circuit-breaker/master.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/francescomalatesta/laravel-circuit-breaker.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Luucasfzs/laravel-circuit-breaker/master.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Luucasfzs/laravel-circuit-breaker.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/francescomalatesta/laravel-circuit-breaker
-[link-travis]: https://travis-ci.org/francescomalatesta/laravel-circuit-breaker
-[link-scrutinizer]: https://scrutinizer-ci.com/g/francescomalatesta/laravel-circuit-breaker/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/francescomalatesta/laravel-circuit-breaker
-[link-downloads]: https://packagist.org/packages/francescomalatesta/laravel-circuit-breaker
-[link-author]: https://github.com/francescomalatesta
+[link-packagist]: https://packagist.org/packages/Luucasfzs/laravel-circuit-breaker
+[link-travis]: https://travis-ci.org/Luucasfzs/laravel-circuit-breaker
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Luucasfzs/laravel-circuit-breaker/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Luucasfzs/laravel-circuit-breaker
+[link-downloads]: https://packagist.org/packages/Luucasfzs/laravel-circuit-breaker
+[link-author]: https://github.com/Luucasfzs
 [link-contributors]: ../../contributors

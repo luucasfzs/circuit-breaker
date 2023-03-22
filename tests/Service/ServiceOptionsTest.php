@@ -1,8 +1,8 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Tests\Service;
+namespace Luucasfzs\LaravelCircuitBreaker\Tests\Service;
 
-use FrancescoMalatesta\LaravelCircuitBreaker\Service\ServiceOptions;
+use Luucasfzs\LaravelCircuitBreaker\Service\ServiceOptions;
 use PHPUnit\Framework\TestCase;
 
 class ServiceOptionsTest extends TestCase

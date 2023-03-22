@@ -1,8 +1,8 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Tests\Store;
+namespace Luucasfzs\LaravelCircuitBreaker\Tests\Store;
 
-use FrancescoMalatesta\LaravelCircuitBreaker\Store\CacheCircuitBreakerStore;
+use Luucasfzs\LaravelCircuitBreaker\Store\CacheCircuitBreakerStore;
 use Illuminate\Cache\Repository;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;

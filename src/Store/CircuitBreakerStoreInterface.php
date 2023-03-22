@@ -1,6 +1,6 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Store;
+namespace Luucasfzs\LaravelCircuitBreaker\Store;
 
 interface CircuitBreakerStoreInterface
 {

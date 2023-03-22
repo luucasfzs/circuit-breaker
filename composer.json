@@ -1,5 +1,5 @@
 {
-    "name": "francescomalatesta/laravel-circuit-breaker",
+    "name": "luucasfzs/laravel-circuit-breaker",
     "type": "library",
     "description": "A circuit breaker pattern implementation for the Laravel framework",
     "keywords": [
@@ -7,13 +7,13 @@
         "circuit breaker",
         "package"
     ],
-    "homepage": "https://github.com/francescomalatesta/laravel-circuit-breaker",
+    "homepage": "https://github.com/luucasfzs/laravel-circuit-breaker",
     "license": "MIT",
     "authors": [
         {
-            "name": "Francesco Malatesta",
-            "email": "hellofrancesco@gmail.com",
-            "homepage": "https://github.com/francescomalatesta",
+            "name": "Lucas Zimmermann",
+            "email": "dweedlez@icloud.com",
+            "homepage": "https://github.com/luucasfzs",
             "role": "Developer"
         }
     ],
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "FrancescoMalatesta\\LaravelCircuitBreaker\\": "src"
+            "Luucasfzs\\LaravelCircuitBreaker\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FrancescoMalatesta\\LaravelCircuitBreaker\\Tests\\": "tests"
+            "Luucasfzs\\LaravelCircuitBreaker\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -43,10 +43,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "FrancescoMalatesta\\LaravelCircuitBreaker\\Provider\\CircuitBreakerServiceProvider"
+                "Luucasfzs\\LaravelCircuitBreaker\\Provider\\CircuitBreakerServiceProvider"
             ],
             "aliases": {
-                "CircuitBreaker": "FrancescoMalatesta\\LaravelCircuitBreaker\\Facade\\CircuitBreaker"
+                "CircuitBreaker": "Luucasfzs\\LaravelCircuitBreaker\\Facade\\CircuitBreaker"
             }
         }
     },

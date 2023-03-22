@@ -1,9 +1,9 @@
 <?php
 
-namespace FrancescoMalatesta\LaravelCircuitBreaker\Provider;
+namespace Luucasfzs\LaravelCircuitBreaker\Provider;
 
-use FrancescoMalatesta\LaravelCircuitBreaker\Store\CacheCircuitBreakerStore;
-use FrancescoMalatesta\LaravelCircuitBreaker\Store\CircuitBreakerStoreInterface;
+use Luucasfzs\LaravelCircuitBreaker\Store\CacheCircuitBreakerStore;
+use Luucasfzs\LaravelCircuitBreaker\Store\CircuitBreakerStoreInterface;
 use Illuminate\Support\ServiceProvider;
 
 class CircuitBreakerServiceProvider extends ServiceProvider
